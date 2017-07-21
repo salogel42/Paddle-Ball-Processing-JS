@@ -33,7 +33,7 @@ Once your ball animation code has been approved by teaching staff, go through th
 Once you feel like you can get a paddle to follow your mouse left and right (while staying in the same vertical position), go back to your spin off and work on that.
 
 ### Clean it up!
-Again, clean up your code!  Use the bullets above to check if your code is clean, and again, get one of the instructors to check it over before moving on.
+Again, clean up your code!  
 
 ## Ball/Paddle Interaction
 Once you have the paddle following your mouse, it's time to make it interact with the ball!
@@ -41,7 +41,7 @@ Once you have the paddle following your mouse, it's time to make it interact wit
 Use all your knowledge of ProcessingJS to get the ball to bounce when it hits the paddle!
 
 ### Clean it up!
-Again, clean up your code!  No need to get it checked this time, you know the drill :)
+Again, clean up your code!  Use the bullets above to check if your code is clean, and again, get one of the instructors to check it over before moving on.
 
 ## Lose condition
 
@@ -60,7 +60,7 @@ Get one of the teaching staff to check your code!
 
 Now you're ready to upgrade your game into a version of Breakout (or Brick Breaker).  This time, instead of continuing to update the same spin-off, make a new spin-off based on your Paddle Ball game, and call this one "<Your name>'s Breakout Game". 
 
-At each step, clean up your code and get it checked as above!
+At each step, clean up your code!  Get it checked whenever you want, or at the end of the day.
 
 ## Add bricks
 
