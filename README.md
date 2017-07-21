@@ -14,7 +14,16 @@ Now that you've gotten the ball bouncing, clean up your code!
 * Do you have any code that looks exactly the same as something else but with different variables? If so, create a function and call it with different parameters!
 * Are your variable names meaningful? If not, change the names! (Note that `x` and `y` can be meaningful names, but try to be more descriptive.  The `x` position of what?  Maybe use `ballX` instead.)
 * Are there any tricky lines of code?  If so, add a brief comment explaining it. (The more concise the better!)
-* Is your indentation and bracket use consistent?  Remember that the opening `{` should be at the end of the line, everything inside of the curlies should be indented one tab, and the closing `}` should be at the same indentation level as the statement that opened block it's closing.
+* Is your indentation and bracket use consistent?  Remember that the opening `{` should be at the end of the line, everything inside of the curlies should be indented one tab, and the closing `}` should be at the same indentation level as the statement that opened block it's closing.  See below for a nonsense example with the proper formatting.
+
+```
+function funName(param) {
+  console.log("hi");
+  for(var i = 0; i < 10; i++) {
+    console.log(i);
+  }
+}
+```
 
 Once your code is cleaned up and you're proud of it, show it to one of the teaching staff before moving on!
 
