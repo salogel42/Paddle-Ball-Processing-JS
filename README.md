@@ -5,7 +5,7 @@ If you don't already have a Khan Academy account, [create one here](https://www.
 ## Ball Movement
 First, spend some time going through [this tutorial about animations in ProcessingJS](https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/p/making-animations), with the goal of animating a bouncing ball in mind.
 
-Then, once you feel like you can do a bouncing ball, spin off an animation, call it "<Your name>'s Paddle Ball Game" and work on getting a ball that moves and bounces off the walls.  For reference, the screen is 400 pixels wide.
+Then, once you feel like you can do a bouncing ball, spin off an animation, call it "(Your name)'s Paddle Ball Game" and work on getting a ball that moves and bounces off the walls.  For reference, the screen is 400 pixels wide.
 
 ### Clean up your code!
 Now that you've gotten the ball bouncing, clean up your code!  
