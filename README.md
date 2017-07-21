@@ -32,18 +32,20 @@ Once you have the paddle following your mouse, it's time to make it interact wit
 Use all your knowledge of ProcessingJS to get the ball to bounce when it hits the paddle!
 
 ### Clean it up!
-You know the drill.  Get it checked before moving on.
+Again, clean up your code!  No need to get it checked this time, you know the drill :)
 
 ## Lose condition
 
 Now, if your ball goes all the way to the bottom of the screen, we want the user to lose.  So we should give the user a "Sorry, you lost!" message and reset the ball to the middle of the screen.
 
 ### Clean it up!
-You know the drill.  Get it checked before moving on.
+Again, clean up your code!
 
 ### Update this repo!
 
-Make a fork of this repository if you haven't already.  Go into the `paddle-ball-code.js` file and paste in your code, along with a comment with the link to your spin-off.
+Make a fork of this repository if you haven't already.  Go into the `paddle-ball-code.js` file and paste in your code, along with a comment with the link to your spin-off.  
+
+Get one of the teaching staff to check your code!
 
 # Breakout!
 
